@@ -1,0 +1,97 @@
+Source,Target,Heat
+Harry Clarke,Jonathan Saldarriaga,1
+Harry Clarke,Juan Camilo Campos Gutierrez,1
+Harry Clarke,Tranquilo 5,1
+Jonathan Saldarriaga,Juan Camilo Campos Gutierrez,1
+Jonathan Saldarriaga,Tranquilo 5,1
+Juan Camilo Campos Gutierrez,Tranquilo 5,1
+Anderson Maldonado,Juan Montoya,2
+Anderson Maldonado,Juan Jose Herrera,2
+Anderson Maldonado,Laura Vargas Echeverry,2
+Juan Montoya,Juan Jose Herrera,2
+Juan Montoya,Laura Vargas Echeverry,2
+Juan Jose Herrera,Laura Vargas Echeverry,2
+Andres Sanchez Velez,Juan Camilo Mejia,3
+Andres Sanchez Velez,Yeison David Monsalve Tiriana,3
+Andres Sanchez Velez,Guillermo Prado,3
+Juan Camilo Mejia,Yeison David Monsalve Tiriana,3
+Juan Camilo Mejia,Guillermo Prado,3
+Yeison David Monsalve Tiriana,Guillermo Prado,3
+Leon Sastre,Luis Giron Garcia,4
+Leon Sastre,Sirley Tabares Builes,4
+Leon Sastre,Correa Guillermo,4
+Luis Giron Garcia,Sirley Tabares Builes,4
+Luis Giron Garcia,Correa Guillermo,4
+Sirley Tabares Builes,Correa Guillermo,4
+Felipe Marin,Guillermo Carrasco,5
+Felipe Marin,Alex Javier Jaramillo,5
+Felipe Marin,Tranquilo 1,5
+Guillermo Carrasco,Alex Javier Jaramillo,5
+Guillermo Carrasco,Tranquilo 1,5
+Alex Javier Jaramillo,Tranquilo 1,5
+Mariano Gentili,Jonathan Arturo Cuya Guardia,6
+Mariano Gentili,Camilo Mendes,6
+Mariano Gentili,Daniel Herbert,6
+Jonathan Arturo Cuya Guardia,Camilo Mendes,6
+Jonathan Arturo Cuya Guardia,Daniel Herbert,6
+Camilo Mendes,Daniel Herbert,6
+Juan Duran,Sebastian Jarmillo,7
+Juan Duran,Anderson Anacona,7
+Juan Duran,Jorge Eliecer Rincon,7
+Sebastian Jarmillo,Anderson Anacona,7
+Sebastian Jarmillo,Jorge Eliecer Rincon,7
+Anderson Anacona,Jorge Eliecer Rincon,7
+Daniel Engel,Juan Carlos Rincon,8
+Daniel Engel,Juan Gonzalez,8
+Daniel Engel,Tranquilo 2,8
+Juan Carlos Rincon,Juan Gonzalez,8
+Juan Carlos Rincon,Tranquilo 2,8
+Juan Gonzalez,Tranquilo 2,8
+Yan Bertinati,Mauricio Rodriguez,9
+Yan Bertinati,Bryan Suares,9
+Yan Bertinati,Tranquilo 3,9
+Mauricio Rodriguez,Bryan Suares,9
+Mauricio Rodriguez,Tranquilo 3,9
+Bryan Suares,Tranquilo 3,9
+Nicolas Moreno,Andres Rodriguez,10
+Nicolas Moreno,Oscar Zambrano Paladines,10
+Nicolas Moreno,Ernesto Esteban,10
+Andres Rodriguez,Oscar Zambrano Paladines,10
+Andres Rodriguez,Ernesto Esteban,10
+Oscar Zambrano Paladines,Ernesto Esteban,10
+Gabriel Huerfano,Luis Esteban Ladera Ovalles,11
+Gabriel Huerfano,Michael Gabino Gomez Vera,11
+Gabriel Huerfano,Fabio Esteban Angarita,11
+Luis Esteban Ladera Ovalles,Michael Gabino Gomez Vera,11
+Luis Esteban Ladera Ovalles,Fabio Esteban Angarita,11
+Michael Gabino Gomez Vera,Fabio Esteban Angarita,11
+Esneider Osorno,Juan Camilo Velez Gonzalias,12
+Esneider Osorno,Carlos Eduardo Arias Moreno,12
+Esneider Osorno,Daniela Paoloa Rueda Rodriguez,12
+Juan Camilo Velez Gonzalias,Carlos Eduardo Arias Moreno,12
+Juan Camilo Velez Gonzalias,Daniela Paoloa Rueda Rodriguez,12
+Carlos Eduardo Arias Moreno,Daniela Paoloa Rueda Rodriguez,12
+Juan Sebastian Zuluaga,Juan Sebastian Rios,13
+Juan Sebastian Zuluaga,Lucas Andrade,13
+Juan Sebastian Zuluaga,Monica Restrepo,13
+Juan Sebastian Rios,Lucas Andrade,13
+Juan Sebastian Rios,Monica Restrepo,13
+Lucas Andrade,Monica Restrepo,13
+Felix Feddersen,Alejandro Arbelaez,14
+Felix Feddersen,Omar Perez,14
+Felix Feddersen,Harold Moreno,14
+Alejandro Arbelaez,Omar Perez,14
+Alejandro Arbelaez,Harold Moreno,14
+Omar Perez,Harold Moreno,14
+Maicol Stiver,Jennifer Schauerte,15
+Maicol Stiver,David Hernandez,15
+Maicol Stiver,Jhonny Alejandro Ospina Oviedo,15
+Jennifer Schauerte,David Hernandez,15
+Jennifer Schauerte,Jhonny Alejandro Ospina Oviedo,15
+David Hernandez,Jhonny Alejandro Ospina Oviedo,15
+Santiago Espeche,Lucas Londono Garcia,16
+Santiago Espeche,Viviana Andrea Lopez Herran,16
+Santiago Espeche,Tranquilo 4,16
+Lucas Londono Garcia,Viviana Andrea Lopez Herran,16
+Lucas Londono Garcia,Tranquilo 4,16
+Viviana Andrea Lopez Herran,Tranquilo 4,16
