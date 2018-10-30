@@ -18,7 +18,7 @@ function updateByCountry() {
   var color = d3.scaleOrdinal(d3.schemeCategory20);
 
   var simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().distance(15).id(function(d) {
+    .force("link", d3.forceLink().distance(10).id(function(d) {
       return d.id;
     }))
     .force("charge", d3.forceManyBody().strength(-20))
@@ -68,9 +68,9 @@ var filterLinks;
       .attr("stroke-width", function(d) {
         return Math.sqrt(d.value);
       })
-      .style("stroke", "#B2D9D8")
-      .style("fill", "#B2D9D8")
-      .style("fill-opacity", "0.8")
+      .style("stroke", "black")
+      .style("fill", "black")
+      .style("fill-opacity", "0.3")
       .on("mouseover", function () {
         d3.select(this).select("g").transition()
             .duration(750)
