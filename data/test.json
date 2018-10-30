@@ -1,0 +1,741 @@
+{
+  "nodes": [
+    {
+      "Rider Name": "Harry Clarke",
+      "Rider Number": 1832
+    },
+    {
+      "Rider Name": "Santiago Espeche",
+      "Rider Number": 3842
+    },
+    {
+      "Rider Name": "Yan Bertinati",
+      "Rider Number": 1612
+    },
+    {
+      "Rider Name": "Daniel Engel",
+      "Rider Number": 1877
+    },
+    {
+      "Rider Name": "Felipe Marin",
+      "Rider Number": 1653
+    },
+    {
+      "Rider Name": "Esneider Osorno",
+      "Rider Number": 4848
+    },
+    {
+      "Rider Name": "Juan Sebastian Zuluaga",
+      "Rider Number": 1664
+    },
+    {
+      "Rider Name": "Leon Sastre",
+      "Rider Number": 4706
+    },
+    {
+      "Rider Name": "Andres Sanchez Velez",
+      "Rider Number": 1026
+    },
+    {
+      "Rider Name": "Felix Feddersen",
+      "Rider Number": 4549
+    },
+    {
+      "Rider Name": "Gabriel Huerfano",
+      "Rider Number": 5085
+    },
+    {
+      "Rider Name": "Mariano Gentili",
+      "Rider Number": 2260
+    },
+    {
+      "Rider Name": "Juan Duran",
+      "Rider Number": 3834
+    },
+    {
+      "Rider Name": "Nicolas Moreno",
+      "Rider Number": 1651
+    },
+    {
+      "Rider Name": "Maicol Stiver",
+      "Rider Number": 5129
+    },
+    {
+      "Rider Name": "Anderson Maldonado",
+      "Rider Number": 1031
+    },
+    {
+      "Rider Name": "Jonathan Saldarriaga",
+      "Rider Number": 3963
+    },
+    {
+      "Rider Name": "Lucas Londono Garcia",
+      "Rider Number": 2684
+    },
+    {
+      "Rider Name": "Mauricio Rodriguez",
+      "Rider Number": 798
+    },
+    {
+      "Rider Name": "Juan Carlos Rincon",
+      "Rider Number": 4051
+    },
+    {
+      "Rider Name": "Guillermo Carrasco",
+      "Rider Number": 4997
+    },
+    {
+      "Rider Name": "Juan Camilo Velez Gonzalias",
+      "Rider Number": 5114
+    },
+    {
+      "Rider Name": "Juan Sebastian Rios",
+      "Rider Number": 5125
+    },
+    {
+      "Rider Name": "Luis Giron Garcia",
+      "Rider Number": 4856
+    },
+    {
+      "Rider Name": "Juan Camilo Mejia",
+      "Rider Number": 1019
+    },
+    {
+      "Rider Name": "Alejandro Arbelaez",
+      "Rider Number": 4870
+    },
+    {
+      "Rider Name": "Luis Esteban Ladera Ovalles",
+      "Rider Number": 4831
+    },
+    {
+      "Rider Name": "Jonathan Arturo Cuya Guardia",
+      "Rider Number": 1637
+    },
+    {
+      "Rider Name": "Sebastian Jarmillo",
+      "Rider Number": 5109
+    },
+    {
+      "Rider Name": "Andres Rodriguez",
+      "Rider Number": 441
+    },
+    {
+      "Rider Name": "Jennifer Schauerte",
+      "Rider Number": 2386
+    },
+    {
+      "Rider Name": "Juan Montoya",
+      "Rider Number": 5112
+    },
+    {
+      "Rider Name": "Juan Jose Herrera",
+      "Rider Number": 3951
+    },
+    {
+      "Rider Name": "David Hernandez",
+      "Rider Number": 607
+    },
+    {
+      "Rider Name": "Oscar Zambrano Paladines",
+      "Rider Number": 4853
+    },
+    {
+      "Rider Name": "Anderson Anacona",
+      "Rider Number": 3995
+    },
+    {
+      "Rider Name": "Camilo Mendes",
+      "Rider Number": 1003
+    },
+    {
+      "Rider Name": "Michael Gabino Gomez Vera",
+      "Rider Number": 5089
+    },
+    {
+      "Rider Name": "Omar Perez",
+      "Rider Number": 1676
+    },
+    {
+      "Rider Name": "Yeison David Monsalve Tiriana",
+      "Rider Number": 5127
+    },
+    {
+      "Rider Name": "Sirley Tabares Builes",
+      "Rider Number": 4713
+    },
+    {
+      "Rider Name": "Lucas Andrade",
+      "Rider Number": 1472
+    },
+    {
+      "Rider Name": "Carlos Eduardo Arias Moreno",
+      "Rider Number": 604
+    },
+    {
+      "Rider Name": "Alex Javier Jaramillo",
+      "Rider Number": 5131
+    },
+    {
+      "Rider Name": "Juan Gonzalez",
+      "Rider Number": 5126
+    },
+    {
+      "Rider Name": "Bryan Suares",
+      "Rider Number": 5108
+    },
+    {
+      "Rider Name": "Viviana Andrea Lopez Herran",
+      "Rider Number": 4869
+    },
+    {
+      "Rider Name": "Juan Camilo Campos Gutierrez",
+      "Rider Number": 608
+    },
+    {
+      "Rider Name": "Laura Vargas Echeverry",
+      "Rider Number": 1453
+    },
+    {
+      "Rider Name": "Jhonny Alejandro Ospina Oviedo",
+      "Rider Number": 4841
+    },
+    {
+      "Rider Name": "Ernesto Esteban",
+      "Rider Number": 5115
+    },
+    {
+      "Rider Name": "Jorge Eliecer Rincon",
+      "Rider Number": 5106
+    },
+    {
+      "Rider Name": "Daniel Herbert",
+      "Rider Number": 5130
+    },
+    {
+      "Rider Name": "Fabio Esteban Angarita",
+      "Rider Number": 5070
+    },
+    {
+      "Rider Name": "Harold Moreno",
+      "Rider Number": 3990
+    },
+    {
+      "Rider Name": "Guillermo Prado",
+      "Rider Number": 4814
+    },
+    {
+      "Rider Name": "Correa Guillermo",
+      "Rider Number": 5111
+    },
+    {
+      "Rider Name": "Monica Restrepo",
+      "Rider Number": 5128
+    },
+    {
+      "Rider Name": "Daniela Paoloa Rueda Rodriguez",
+      "Rider Number": 5116
+    },
+    {
+      "Rider Name": "Tranquilo 1",
+      "Rider Number": 9960
+    },
+    {
+      "Rider Name": "Tranquilo 2",
+      "Rider Number": 9961
+    },
+    {
+      "Rider Name": "Tranquilo 3",
+      "Rider Number": 9962
+    },
+    {
+      "Rider Name": "Tranquilo 4",
+      "Rider Number": 9963
+    },
+    {
+      "Rider Name": "Tranquilo 5",
+      "Rider Number": 9964
+    }
+  ],"links":[
+    {
+      "source": "Harry Clarke",
+      "target": "Jonathan Saldarriaga",
+      "Heat": 1
+    },
+    {
+      "source": "Harry Clarke",
+      "target": "Juan Camilo Campos Gutierrez",
+      "Heat": 1
+    },
+    {
+      "source": "Harry Clarke",
+      "target": "Tranquilo 5",
+      "Heat": 1
+    },
+    {
+      "source": "Jonathan Saldarriaga",
+      "target": "Juan Camilo Campos Gutierrez",
+      "Heat": 1
+    },
+    {
+      "source": "Jonathan Saldarriaga",
+      "target": "Tranquilo 5",
+      "Heat": 1
+    },
+    {
+      "source": "Juan Camilo Campos Gutierrez",
+      "target": "Tranquilo 5",
+      "Heat": 1
+    },
+    {
+      "source": "Anderson Maldonado",
+      "target": "Juan Montoya",
+      "Heat": 2
+    },
+    {
+      "source": "Anderson Maldonado",
+      "target": "Juan Jose Herrera",
+      "Heat": 2
+    },
+    {
+      "source": "Anderson Maldonado",
+      "target": "Laura Vargas Echeverry",
+      "Heat": 2
+    },
+    {
+      "source": "Juan Montoya",
+      "target": "Juan Jose Herrera",
+      "Heat": 2
+    },
+    {
+      "source": "Juan Montoya",
+      "target": "Laura Vargas Echeverry",
+      "Heat": 2
+    },
+    {
+      "source": "Juan Jose Herrera",
+      "target": "Laura Vargas Echeverry",
+      "Heat": 2
+    },
+    {
+      "source": "Andres Sanchez Velez",
+      "target": "Juan Camilo Mejia",
+      "Heat": 3
+    },
+    {
+      "source": "Andres Sanchez Velez",
+      "target": "Yeison David Monsalve Tiriana",
+      "Heat": 3
+    },
+    {
+      "source": "Andres Sanchez Velez",
+      "target": "Guillermo Prado",
+      "Heat": 3
+    },
+    {
+      "source": "Juan Camilo Mejia",
+      "target": "Yeison David Monsalve Tiriana",
+      "Heat": 3
+    },
+    {
+      "source": "Juan Camilo Mejia",
+      "target": "Guillermo Prado",
+      "Heat": 3
+    },
+    {
+      "source": "Yeison David Monsalve Tiriana",
+      "target": "Guillermo Prado",
+      "Heat": 3
+    },
+    {
+      "source": "Leon Sastre",
+      "target": "Luis Giron Garcia",
+      "Heat": 4
+    },
+    {
+      "source": "Leon Sastre",
+      "target": "Sirley Tabares Builes",
+      "Heat": 4
+    },
+    {
+      "source": "Leon Sastre",
+      "target": "Correa Guillermo",
+      "Heat": 4
+    },
+    {
+      "source": "Luis Giron Garcia",
+      "target": "Sirley Tabares Builes",
+      "Heat": 4
+    },
+    {
+      "source": "Luis Giron Garcia",
+      "target": "Correa Guillermo",
+      "Heat": 4
+    },
+    {
+      "source": "Sirley Tabares Builes",
+      "target": "Correa Guillermo",
+      "Heat": 4
+    },
+    {
+      "source": "Felipe Marin",
+      "target": "Guillermo Carrasco",
+      "Heat": 5
+    },
+    {
+      "source": "Felipe Marin",
+      "target": "Alex Javier Jaramillo",
+      "Heat": 5
+    },
+    {
+      "source": "Felipe Marin",
+      "target": "Tranquilo 1",
+      "Heat": 5
+    },
+    {
+      "source": "Guillermo Carrasco",
+      "target": "Alex Javier Jaramillo",
+      "Heat": 5
+    },
+    {
+      "source": "Guillermo Carrasco",
+      "target": "Tranquilo 1",
+      "Heat": 5
+    },
+    {
+      "source": "Alex Javier Jaramillo",
+      "target": "Tranquilo 1",
+      "Heat": 5
+    },
+    {
+      "source": "Mariano Gentili",
+      "target": "Jonathan Arturo Cuya Guardia",
+      "Heat": 6
+    },
+    {
+      "source": "Mariano Gentili",
+      "target": "Camilo Mendes",
+      "Heat": 6
+    },
+    {
+      "source": "Mariano Gentili",
+      "target": "Daniel Herbert",
+      "Heat": 6
+    },
+    {
+      "source": "Jonathan Arturo Cuya Guardia",
+      "target": "Camilo Mendes",
+      "Heat": 6
+    },
+    {
+      "source": "Jonathan Arturo Cuya Guardia",
+      "target": "Daniel Herbert",
+      "Heat": 6
+    },
+    {
+      "source": "Camilo Mendes",
+      "target": "Daniel Herbert",
+      "Heat": 6
+    },
+    {
+      "source": "Juan Duran",
+      "target": "Sebastian Jarmillo",
+      "Heat": 7
+    },
+    {
+      "source": "Juan Duran",
+      "target": "Anderson Anacona",
+      "Heat": 7
+    },
+    {
+      "source": "Juan Duran",
+      "target": "Jorge Eliecer Rincon",
+      "Heat": 7
+    },
+    {
+      "source": "Sebastian Jarmillo",
+      "target": "Anderson Anacona",
+      "Heat": 7
+    },
+    {
+      "source": "Sebastian Jarmillo",
+      "target": "Jorge Eliecer Rincon",
+      "Heat": 7
+    },
+    {
+      "source": "Anderson Anacona",
+      "target": "Jorge Eliecer Rincon",
+      "Heat": 7
+    },
+    {
+      "source": "Daniel Engel",
+      "target": "Juan Carlos Rincon",
+      "Heat": 8
+    },
+    {
+      "source": "Daniel Engel",
+      "target": "Juan Gonzalez",
+      "Heat": 8
+    },
+    {
+      "source": "Daniel Engel",
+      "target": "Tranquilo 2",
+      "Heat": 8
+    },
+    {
+      "source": "Juan Carlos Rincon",
+      "target": "Juan Gonzalez",
+      "Heat": 8
+    },
+    {
+      "source": "Juan Carlos Rincon",
+      "target": "Tranquilo 2",
+      "Heat": 8
+    },
+    {
+      "source": "Juan Gonzalez",
+      "target": "Tranquilo 2",
+      "Heat": 8
+    },
+    {
+      "source": "Yan Bertinati",
+      "target": "Mauricio Rodriguez",
+      "Heat": 9
+    },
+    {
+      "source": "Yan Bertinati",
+      "target": "Bryan Suares",
+      "Heat": 9
+    },
+    {
+      "source": "Yan Bertinati",
+      "target": "Tranquilo 3",
+      "Heat": 9
+    },
+    {
+      "source": "Mauricio Rodriguez",
+      "target": "Bryan Suares",
+      "Heat": 9
+    },
+    {
+      "source": "Mauricio Rodriguez",
+      "target": "Tranquilo 3",
+      "Heat": 9
+    },
+    {
+      "source": "Bryan Suares",
+      "target": "Tranquilo 3",
+      "Heat": 9
+    },
+    {
+      "source": "Nicolas Moreno",
+      "target": "Andres Rodriguez",
+      "Heat": 10
+    },
+    {
+      "source": "Nicolas Moreno",
+      "target": "Oscar Zambrano Paladines",
+      "Heat": 10
+    },
+    {
+      "source": "Nicolas Moreno",
+      "target": "Ernesto Esteban",
+      "Heat": 10
+    },
+    {
+      "source": "Andres Rodriguez",
+      "target": "Oscar Zambrano Paladines",
+      "Heat": 10
+    },
+    {
+      "source": "Andres Rodriguez",
+      "target": "Ernesto Esteban",
+      "Heat": 10
+    },
+    {
+      "source": "Oscar Zambrano Paladines",
+      "target": "Ernesto Esteban",
+      "Heat": 10
+    },
+    {
+      "source": "Gabriel Huerfano",
+      "target": "Luis Esteban Ladera Ovalles",
+      "Heat": 11
+    },
+    {
+      "source": "Gabriel Huerfano",
+      "target": "Michael Gabino Gomez Vera",
+      "Heat": 11
+    },
+    {
+      "source": "Gabriel Huerfano",
+      "target": "Fabio Esteban Angarita",
+      "Heat": 11
+    },
+    {
+      "source": "Luis Esteban Ladera Ovalles",
+      "target": "Michael Gabino Gomez Vera",
+      "Heat": 11
+    },
+    {
+      "source": "Luis Esteban Ladera Ovalles",
+      "target": "Fabio Esteban Angarita",
+      "Heat": 11
+    },
+    {
+      "source": "Michael Gabino Gomez Vera",
+      "target": "Fabio Esteban Angarita",
+      "Heat": 11
+    },
+    {
+      "source": "Esneider Osorno",
+      "target": "Juan Camilo Velez Gonzalias",
+      "Heat": 12
+    },
+    {
+      "source": "Esneider Osorno",
+      "target": "Carlos Eduardo Arias Moreno",
+      "Heat": 12
+    },
+    {
+      "source": "Esneider Osorno",
+      "target": "Daniela Paoloa Rueda Rodriguez",
+      "Heat": 12
+    },
+    {
+      "source": "Juan Camilo Velez Gonzalias",
+      "target": "Carlos Eduardo Arias Moreno",
+      "Heat": 12
+    },
+    {
+      "source": "Juan Camilo Velez Gonzalias",
+      "target": "Daniela Paoloa Rueda Rodriguez",
+      "Heat": 12
+    },
+    {
+      "source": "Carlos Eduardo Arias Moreno",
+      "target": "Daniela Paoloa Rueda Rodriguez",
+      "Heat": 12
+    },
+    {
+      "source": "Juan Sebastian Zuluaga",
+      "target": "Juan Sebastian Rios",
+      "Heat": 13
+    },
+    {
+      "source": "Juan Sebastian Zuluaga",
+      "target": "Lucas Andrade",
+      "Heat": 13
+    },
+    {
+      "source": "Juan Sebastian Zuluaga",
+      "target": "Monica Restrepo",
+      "Heat": 13
+    },
+    {
+      "source": "Juan Sebastian Rios",
+      "target": "Lucas Andrade",
+      "Heat": 13
+    },
+    {
+      "source": "Juan Sebastian Rios",
+      "target": "Monica Restrepo",
+      "Heat": 13
+    },
+    {
+      "source": "Lucas Andrade",
+      "target": "Monica Restrepo",
+      "Heat": 13
+    },
+    {
+      "source": "Felix Feddersen",
+      "target": "Alejandro Arbelaez",
+      "Heat": 14
+    },
+    {
+      "source": "Felix Feddersen",
+      "target": "Omar Perez",
+      "Heat": 14
+    },
+    {
+      "source": "Felix Feddersen",
+      "target": "Harold Moreno",
+      "Heat": 14
+    },
+    {
+      "source": "Alejandro Arbelaez",
+      "target": "Omar Perez",
+      "Heat": 14
+    },
+    {
+      "source": "Alejandro Arbelaez",
+      "target": "Harold Moreno",
+      "Heat": 14
+    },
+    {
+      "source": "Omar Perez",
+      "target": "Harold Moreno",
+      "Heat": 14
+    },
+    {
+      "source": "Maicol Stiver",
+      "target": "Jennifer Schauerte",
+      "Heat": 15
+    },
+    {
+      "source": "Maicol Stiver",
+      "target": "David Hernandez",
+      "Heat": 15
+    },
+    {
+      "source": "Maicol Stiver",
+      "target": "Jhonny Alejandro Ospina Oviedo",
+      "Heat": 15
+    },
+    {
+      "source": "Jennifer Schauerte",
+      "target": "David Hernandez",
+      "Heat": 15
+    },
+    {
+      "source": "Jennifer Schauerte",
+      "target": "Jhonny Alejandro Ospina Oviedo",
+      "Heat": 15
+    },
+    {
+      "source": "David Hernandez",
+      "target": "Jhonny Alejandro Ospina Oviedo",
+      "Heat": 15
+    },
+    {
+      "source": "Santiago Espeche",
+      "target": "Lucas Londono Garcia",
+      "Heat": 16
+    },
+    {
+      "source": "Santiago Espeche",
+      "target": "Viviana Andrea Lopez Herran",
+      "Heat": 16
+    },
+    {
+      "source": "Santiago Espeche",
+      "target": "Tranquilo 4",
+      "Heat": 16
+    },
+    {
+      "source": "Lucas Londono Garcia",
+      "target": "Viviana Andrea Lopez Herran",
+      "Heat": 16
+    },
+    {
+      "source": "Lucas Londono Garcia",
+      "target": "Tranquilo 4",
+      "Heat": 16
+    },
+    {
+      "source": "Viviana Andrea Lopez Herran",
+      "target": "Tranquilo 4",
+      "Heat": 16
+    }
+  ]
+}
